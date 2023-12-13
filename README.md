@@ -1,66 +1,13 @@
-## Foundry
+## Learnweb3 12-days Challnenge Day Three
 
-**Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
+**Learnweb3 12-days Challnenge Day three**
 
-Foundry consists of:
+## Description
 
--   **Forge**: Ethereum testing framework (like Truffle, Hardhat and DappTools).
--   **Cast**: Swiss army knife for interacting with EVM smart contracts, sending transactions and getting chain data.
--   **Anvil**: Local Ethereum node, akin to Ganache, Hardhat Network.
--   **Chisel**: Fast, utilitarian, and verbose solidity REPL.
+Write a Christmas smart contract that has a function that accepts 2 integers, sums them and returns this sum.
 
-## Documentation
+**Contract Address** 0xDC4146C7CEFed6BCDe818Ae25D7Bee83FC547FEe
 
-https://book.getfoundry.sh/
-
-## Usage
-
-### Build
-
-```shell
-$ forge build
-```
-
-### Test
-
-```shell
-$ forge test
-```
-
-### Format
-
-```shell
-$ forge fmt
-```
-
-### Gas Snapshots
-
-```shell
-$ forge snapshot
-```
-
-### Anvil
-
-```shell
-$ anvil
-```
-
-### Deploy
-
-```shell
-$ forge script script/Counter.s.sol:CounterScript --rpc-url <your_rpc_url> --private-key <your_private_key>
-```
-
-### Cast
-
-```shell
-$ cast <subcommand>
-```
-
-### Help
-
-```shell
-$ forge --help
-$ anvil --help
-$ cast --help
-```
+**Sepolia Link**
+https://sepolia.etherscan.io/tx/0x930e8f4949aabfaf0d9154d368b1d9c3e9db82e7ef5055e5ba814f5282b17262
+# 12DoC-3
