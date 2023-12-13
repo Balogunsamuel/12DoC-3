@@ -10,4 +10,3 @@ Write a Christmas smart contract that has a function that accepts 2 integers, su
 
 **Sepolia Link**
 https://sepolia.etherscan.io/tx/0x930e8f4949aabfaf0d9154d368b1d9c3e9db82e7ef5055e5ba814f5282b17262
-# 12DoC-3

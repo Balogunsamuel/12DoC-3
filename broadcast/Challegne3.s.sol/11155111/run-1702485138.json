@@ -1,0 +1,38 @@
+{
+  "transactions": [
+    {
+      "hash": "0x930e8f4949aabfaf0d9154d368b1d9c3e9db82e7ef5055e5ba814f5282b17262",
+      "transactionType": "CREATE",
+      "contractName": "Challegne3",
+      "contractAddress": "0xDC4146C7CEFed6BCDe818Ae25D7Bee83FC547FEe",
+      "function": null,
+      "arguments": null,
+      "transaction": {
+        "type": "0x02",
+        "from": "0x41375728bf4bc5a1e4d67ebf3df00a9f87ae1b60",
+        "gas": "0x1fe56",
+        "value": "0x0",
+        "data": "0x608060405234801561001057600080fd5b5060da8061001f6000396000f3fe6080604052348015600f57600080fd5b506004361060285760003560e01c806321f3fb6a14602d575b600080fd5b603c60383660046063565b604e565b60405190815260200160405180910390f35b600080605983856084565b9150505b92915050565b60008060408385031215607557600080fd5b50508035926020909101359150565b80820180821115605d57634e487b7160e01b600052601160045260246000fdfea2646970667358221220dc1175aef81c051abcb7b1014bf8a3fed66b14288531a276405ae82b443becc664736f6c63430008150033",
+        "nonce": "0x27",
+        "accessList": []
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    }
+  ],
+  "receipts": [],
+  "libraries": [],
+  "pending": [
+    "0x930e8f4949aabfaf0d9154d368b1d9c3e9db82e7ef5055e5ba814f5282b17262"
+  ],
+  "returns": {
+    "0": {
+      "internal_type": "contract Challegne3",
+      "value": "0xDC4146C7CEFed6BCDe818Ae25D7Bee83FC547FEe"
+    }
+  },
+  "timestamp": 1702485138,
+  "chain": 11155111,
+  "multi": false,
+  "commit": "54ddcc5"
+}
